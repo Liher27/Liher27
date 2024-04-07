@@ -1,4 +1,7 @@
-Hola
+No se porque pongo cosas en mis repositorios como si nadie las fuese a leer sabes 
+
+
+no se ni porque escribo nada aqui tampoco bueno me call
 
 
 <!---
