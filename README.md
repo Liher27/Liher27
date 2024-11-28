@@ -1,5 +1,5 @@
-# 💫 About Me:
-Soy Liher Chamorro, estudiante de 2º de Desarrollo de aplicaciones multiplataforma en Elorrieta-Errekamari.<br>
+# 🫡 ¡Buenas!:
+Soy Liher Chamorro, estudiante de 2º curso de Desarrollo de aplicaciones multiplataforma en Elorrieta-Errekamari.<br>
 
 
 ## 🌐 Socials:
