@@ -1,7 +1,6 @@
 # 🫡 ¡Buenas!:
 Soy Liher Chamorro, estudiante de 2º curso de Desarrollo de aplicaciones multiplataforma en Elorrieta-Errekamari.<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liher.04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Liher_207) 
 
