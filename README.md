@@ -1,5 +1,4 @@
-# Buenas!
-Soy Liher Chamorro <br>
+# Buenas! <br>
 
 ## 🌐 Contactos:
 ![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white) liherjulio2004@gmail.com
