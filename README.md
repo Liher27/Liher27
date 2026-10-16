@@ -1,5 +1,5 @@
 # Buenas!
-Soy Liher Chamorro, Actualmente trabajo en Inetum para la sede electrónica de la diputación foral de bizkaia! <br>
+Soy Liher Chamorro <br>
 
 ## 🌐 Contactos:
 ![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white) liherjulio2004@gmail.com
